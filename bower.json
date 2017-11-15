@@ -3,7 +3,7 @@
     "description": "Screenshots with JavaScript",
     "ignore": [
         "tests",
-        ".travis.yml"
+        ".travis.yml",
         "dist/npm"
     ],
     "main": "dist/html2canvas.js"
